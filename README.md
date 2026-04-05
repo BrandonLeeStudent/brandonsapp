@@ -1,3 +1,7 @@
+Coding Project 03 — Next.js Resume Page (React)
+
+This is my resume but put into next.js app with styling.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
