@@ -5,7 +5,7 @@ export default function Home() {
     <section>
       <h1 className="text-3xl font-bold mb-4 text-center">Resume</h1>
       <h1 className="text-2xl font-semibold mb-2 text-center">Brandon Lee</h1>
-      <p>
+      <p className="border-t border-gray-300">
         Detail-oriented Analyst experienced in analyzing financial data, preparing forecasts, variance 
         analyses, and budgeting reports to support business decision-making. Proficient in Microsoft 
         Excel with experience using Tableau, and SQL for data analysis and financial reporting. 
@@ -23,7 +23,7 @@ export default function Home() {
       <p>Grocery Clerk | May 2024 – Present | Publix - Bradenton, FL</p>
       <p>Arby's - Lakewood Ranch, FL | March 2022 – April 2023</p>
 
-      <h2>INTERNSHIP EXPERIENCE</h2>
+      <h2 className="border-t border-gray-300">INTERNSHIP EXPERIENCE</h2>
       <p>Marketing Assistant Summer 2022 | GFree - San Juan, PR</p>
       <ul>
         <li>Researched pricing data for ecommerce competition.</li>
