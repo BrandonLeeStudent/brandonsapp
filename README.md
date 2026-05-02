@@ -1,7 +1,18 @@
 Coding Project 03 — Next.js Resume Page (React)
 
 This is my resume but put into next.js app with styling.
+Technologies used in this project:
+-Next.js 16.2.1
+-React 19.2.4
+-react-dom 19.2.4
+-Tailwind CSS ^4
+-@tailwindcss/postcss ^4
+-Babel plugin babel-plugin-react-compiler
+-ESLint ^9
+-eslint-config-next 16.2.1
+-used copilot and claude to help fix coding errors
 
+How to Run:
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +49,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+From this Project I learned how to scaffold a Next.js project.I lernaed the basic structure of the Next.js file and how to Write JSX inside src/app/page.js to
+build a page. I also styled the page using tailwind.css
